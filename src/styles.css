@@ -1,1 +1,15 @@
-/* You can add global styles to this file, and also import other style files */
+
+:root { 
+    --accent-color: #007BFF; /* Update to your preferred accent color */ 
+    --background-color: #f9f9f9; 
+    --text-color: #333333; 
+    --heading-font: 'Open Sans', sans-serif; 
+    --body-font: 'Open Sans', sans-serif; } 
+    /* Global Styles */ 
+    body { 
+        font-family: var(--body-font);
+        color: var(--text-color);
+        background-color: var(--background-color); 
+        margin: 0; 
+        padding: 0; 
+    } 
