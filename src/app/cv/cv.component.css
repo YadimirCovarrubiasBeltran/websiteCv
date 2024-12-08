@@ -1,0 +1,41 @@
+.cv-container {
+    width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 1px solid #000;
+    display: flex;
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .column {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .left {
+    background-color: #f0f0f0;
+  }
+  
+  .right {
+    background-color: #ffffff;
+  }
+  
+  h2,
+  h3,
+  h5,
+  h6 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 0;
+    font-size: 16px;
+  }
+  
+  ul {
+    padding-left: 20px;
+  }
+  
