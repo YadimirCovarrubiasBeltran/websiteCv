@@ -1,0 +1,88 @@
+{
+    "personalInformation": {
+      "name": "Yadinmir Covarrubias Beltran",
+      "email": "yadimir.cova@gmail.com",
+      "tel": "(MX) +52 6672 09 0541",
+      "personalRepo": "https://github.com/YadimirCovBel"
+    },
+    "nationality": ["United States", "Mexican"],
+    "travelDocumentation": ["United States passport", "Mexican passport"],
+    "education": "Licenciado en Mercadotecnia (B.S. in Marketing)",
+    "skills": {
+      "languages": ["Spanish: Advanced", "English: Advanced"],
+      "softwareDevelopment": [
+        "HTML5",
+        "CSS3",
+        "TypeScript",
+        "JavaScript",
+        "SQL",
+        "MariaDB",
+        "MySQL",
+        "NoSQL",
+        "MongoDB",
+        "SSH",
+        "GNU/Linux (Debian Flavor distros)",
+        "Shell",
+        "Bash",
+        "SystemD"
+      ],
+      "stacks": {
+        "MEAN": ["MongoDB", "Express.js"]
+      },
+      "managementSkills": [
+        "Leadership",
+        "Logistics",
+        "Team Coordination",
+        "Problem Solving",
+        "Risk Assessment",
+        "Value Delivery",
+        "Metrics Analysis",
+        "Budget Planning"
+      ]
+    },
+    "workExperience": [
+      {
+        "company": "Servicios industriales KingWash",
+        "location": "Zapopan, Jalisco, México",
+        "period": "AUG/2019 - current",
+        "position": "Chief Administrative Officer",
+        "responsibilities": [
+          "Administrative staff management driven by the mission and vision of the company focused on delivering world-class laundry services to stay competitive while maintaining the highest standards to satisfy Hospital and Hotel companies.",
+          "Leading areas such as Collections, Human Resources, Invoicing, Infrastructure Maintenance, Supplier Input Control, Customer Service; while planning and executing strategies for our scalable business model.",
+          "Providing specialized laundry services with over 20 years of experience, delivering top service to the hospital, healthcare, and hotel industries."
+        ]
+      },
+      {
+        "company": "Transportadora de perecederos y congelados H",
+        "location": "Zapopan, Jalisco, México",
+        "period": "SEP/2017 - JUN/2019",
+        "position": "Logistic Administrative",
+        "responsibilities": [
+          "Supplies Administrator for controlling fuel and other transportation fleet needs.",
+          "Ensured compliance with C-TPAT parameters to maintain certifications.",
+          "Managed quality assessment services and liaison with C-TPAT agents."
+        ]
+      },
+      {
+        "company": "Hospital San Javier",
+        "location": "Guadalajara, Jalisco, México",
+        "period": "SEP/2015 - JUN/2017",
+        "position": "Marketing Assistant",
+        "responsibilities": [
+          "Conducted market research, planned promotional events, and supported marketing initiatives.",
+          "Managed control of supplies stock and pricing."
+        ]
+      },
+      {
+        "company": "Telefónica",
+        "location": "Guadalajara, Jalisco, México",
+        "period": "JAN/2014 - AUG/2015",
+        "position": "Customer Representative",
+        "responsibilities": [
+          "Addressed customer complaints and malfunctions of ISP services.",
+          "Managed service cancellations and provided customer support."
+        ]
+      }
+    ]
+  }
+  
