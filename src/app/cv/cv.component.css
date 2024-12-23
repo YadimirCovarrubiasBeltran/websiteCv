@@ -17,20 +17,22 @@
   }
   
   .column {
-    flex: 1;
+    padding: 20px;
+    box-sizing: border-box;
   }
   
   .column.left {
     background-color: #c0c0c0;
-    padding: 20px;
+   
   }
   
   .column.right {
     background-color: #ffffff;
-    padding: 20px;
+    
   }
   /* Personal Information Section */ 
-  .personal-info { background-color: #000000; /* Black background */ 
+  .personal-info { 
+    background-color: #000000; /* Black background */ 
     color: #FFFFFF; /* White text */ 
     padding: 20px; 
     margin-bottom: 20px; /* Add some space after the section */ 
@@ -46,7 +48,9 @@
   .personal-info h2, 
   .personal-info h3, 
   .personal-info h5, 
-  .personal-info h6 { color: #FFFFFF; /*  headings white */ }
+  .personal-info h6 { 
+    color: #FFFFFF; /*  headings white */ 
+  }
 
    /* Headings */
    h2,
@@ -111,4 +115,14 @@ a:hover {
         width: 100%; 
         padding: 10px; 
     } 
+    .cv-container { 
+      max-width: 100%; 
+      margin: 20px auto; 
+    }
 } 
+
+  @media (min-width: 769px) {
+    .column {
+      flex: 0 0 50%;
+    }
+  }
